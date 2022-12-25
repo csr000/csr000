@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **csrichard000@gmail.com**
 
-- ⚡ Why does the python programmer wear glasses? **Because he can't C#. lol!**
+- ⚡ Why does python programmers wear glasses? **Because they can't C#😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
