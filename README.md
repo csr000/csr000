@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Richard Stephen</h1>
 <h3 align="center">An Enthusiastic Software Engineer</h3>
 
-- 🔭 I’m currently working on [Bisame](https://github.com/csr000/bisame-mobile)
+- 🔭 I’m currently working on [Melo](https://github.com/csr000)
 
 - 🌱 I’m currently learning to get better at **solving leetcode problems**
 
